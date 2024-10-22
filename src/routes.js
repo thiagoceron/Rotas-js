@@ -9,7 +9,8 @@ import Produto from './pages/Produto';
 import Header from './components/Header';
 import Rodape from './components/Rodape'; 
 
-import './App.css';
+
+import './estilo.css';
 
 
 function RoutesApp() {
